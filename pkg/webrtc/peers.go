@@ -1,3 +1,5 @@
+package webrtc
+
 type Room struct{
 	Peers *Peers
 	Hub *chat.Hub
